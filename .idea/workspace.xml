@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7639420f-6d2d-42b5-bb2e-a983e25dd56c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/DataScience.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch10_模型的驗證方法與性能調校方法/10-1 模型的評估與提高精確度的方法.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch10_模型的驗證方法與性能調校方法/10-2 模型的評估與性能調校.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch1_本書的概要與Python的基礎/1-2_Python的基礎.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch2_科學計算、資料加工、圖形描繪函式庫的使用方法基礎/._2-5_Matplotlib的基礎.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch2_科學計算、資料加工、圖形描繪函式庫的使用方法基礎/2-1_用於資料分析的函式庫.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch2_科學計算、資料加工、圖形描繪函式庫的使用方法基礎/2-2_Numpy的基礎.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch2_科學計算、資料加工、圖形描繪函式庫的使用方法基礎/2-3_Scipy的基礎.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch2_科學計算、資料加工、圖形描繪函式庫的使用方法基礎/2-4_Pandas的基礎.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch2_科學計算、資料加工、圖形描繪函式庫的使用方法基礎/2-5_Matplotlib的基礎.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch3_敘述統計與簡單回歸分析/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch3_敘述統計與簡單回歸分析/._3-2_資料的讀取與對話.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch3_敘述統計與簡單回歸分析/._chap3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch3_敘述統計與簡單回歸分析/3-2_資料的讀取與對話.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch3_敘述統計與簡單回歸分析/chap3/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch3_敘述統計與簡單回歸分析/chap3/._student-mat.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch3_敘述統計與簡單回歸分析/chap3/student-mat.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch3_敘述統計與簡單回歸分析/chap3/student-merge.R" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch3_敘述統計與簡單回歸分析/chap3/student-por.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch3_敘述統計與簡單回歸分析/chap3/student.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch3_敘述統計與簡單回歸分析/chap3/wine_data.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch4_機率與統計的基礎/4-2_機率.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch5_使用Python進行科學計算(Numpy與Scipy)/._5-2使用Numpy計算之應用.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch5_使用Python進行科學計算(Numpy與Scipy)/5-2使用Numpy計算之應用.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch6_使用Pandas進行資料加工處理/6-2 Pandas的基本資料操作.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch6_使用Pandas進行資料加工處理/6-3 遺漏資料與異常值處理的基礎.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch6_使用Pandas進行資料加工處理/6-4 時間序列資料處理的基礎.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch7_使用Matplotlib進行資料視覺化/7-2 資料視覺化的基礎.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch7_使用Matplotlib進行資料視覺化/7-3 應用：金融資料的視覺化.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch7_使用Matplotlib進行資料視覺化/7-4 應用：思考分析結果的表現方式.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch7_使用Matplotlib進行資料視覺化/dow_jones_index.data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch7_使用Matplotlib進行資料視覺化/dow_jones_index.names" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch8_機器學習的基礎(監督式學習)/._student-mat.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch8_機器學習的基礎(監督式學習)/8-1 機器學習概觀.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch8_機器學習的基礎(監督式學習)/8-2 多元線性迴歸.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch8_機器學習的基礎(監督式學習)/8-3 邏輯迴歸.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch8_機器學習的基礎(監督式學習)/8-4 具正則化項的迴歸：Lasso迴歸、Ridge迴歸.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch8_機器學習的基礎(監督式學習)/8-5 決策樹.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch8_機器學習的基礎(監督式學習)/8-6 K-NN(K最近鄰演算法).ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch8_機器學習的基礎(監督式學習)/8-7 支援向量機.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch8_機器學習的基礎(監督式學習)/student-mat.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch9_機器學習的基礎(非監督式學習)/9-1 非監督式學習.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch9_機器學習的基礎(非監督式學習)/9-2 聚類分析.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch9_機器學習的基礎(非監督式學習)/9-3 主成分分析.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch9_機器學習的基礎(非監督式學習)/9-4 購物籃分析與關聯規則.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch9_機器學習的基礎(非監督式學習)/bank-full.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch9_機器學習的基礎(非監督式學習)/bank-names.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch9_機器學習的基礎(非監督式學習)/bank.csv" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2K8hFhNDm81HR8al6DkxTZ5bN3E" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7639420f-6d2d-42b5-bb2e-a983e25dd56c" name="Changes" comment="" />
+      <created>1673362016260</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1673362016260</updated>
+      <workItem from="1673362018721" duration="1484000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
